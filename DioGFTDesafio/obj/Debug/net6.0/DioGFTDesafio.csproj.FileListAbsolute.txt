@@ -1,0 +1,15 @@
+C:\Users\roney\Documents\VSCode\C#\DioGFTDesafio\bin\Debug\net6.0\DioGFTDesafio.exe
+C:\Users\roney\Documents\VSCode\C#\DioGFTDesafio\bin\Debug\net6.0\DioGFTDesafio.deps.json
+C:\Users\roney\Documents\VSCode\C#\DioGFTDesafio\bin\Debug\net6.0\DioGFTDesafio.runtimeconfig.json
+C:\Users\roney\Documents\VSCode\C#\DioGFTDesafio\bin\Debug\net6.0\DioGFTDesafio.dll
+C:\Users\roney\Documents\VSCode\C#\DioGFTDesafio\bin\Debug\net6.0\ref\DioGFTDesafio.dll
+C:\Users\roney\Documents\VSCode\C#\DioGFTDesafio\bin\Debug\net6.0\DioGFTDesafio.pdb
+C:\Users\roney\Documents\VSCode\C#\DioGFTDesafio\obj\Debug\net6.0\DioGFTDesafio.csproj.AssemblyReference.cache
+C:\Users\roney\Documents\VSCode\C#\DioGFTDesafio\obj\Debug\net6.0\DioGFTDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roney\Documents\VSCode\C#\DioGFTDesafio\obj\Debug\net6.0\DioGFTDesafio.AssemblyInfoInputs.cache
+C:\Users\roney\Documents\VSCode\C#\DioGFTDesafio\obj\Debug\net6.0\DioGFTDesafio.AssemblyInfo.cs
+C:\Users\roney\Documents\VSCode\C#\DioGFTDesafio\obj\Debug\net6.0\DioGFTDesafio.csproj.CoreCompileInputs.cache
+C:\Users\roney\Documents\VSCode\C#\DioGFTDesafio\obj\Debug\net6.0\DioGFTDesafio.dll
+C:\Users\roney\Documents\VSCode\C#\DioGFTDesafio\obj\Debug\net6.0\ref\DioGFTDesafio.dll
+C:\Users\roney\Documents\VSCode\C#\DioGFTDesafio\obj\Debug\net6.0\DioGFTDesafio.pdb
+C:\Users\roney\Documents\VSCode\C#\DioGFTDesafio\obj\Debug\net6.0\DioGFTDesafio.genruntimeconfig.cache
